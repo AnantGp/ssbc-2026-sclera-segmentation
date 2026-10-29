@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "For the competition study, cite the SSBC 2026 paper in references.bib. For this team's code, cite this repository."
+type: software
+title: "SSBC 2026: SAM-LoRA and DINOv2 Mean Teacher for Sclera Segmentation"
+authors:
+  - family-names: Gupta
+    given-names: Gourav
+    affiliation: Arogya Pandit
+  - family-names: Gupta
+    given-names: Anant
+    affiliation: Arogya Pandit
+repository-code: "https://github.com/AnantGp/ssbc-2026-sclera-segmentation"
+url: "https://github.com/AnantGp/ssbc-2026-sclera-segmentation"
+version: 0.1.0
+date-released: 2026-10-29
+keywords:
+  - sclera segmentation
+  - ocular biometrics
+  - SSBC 2026
+  - SAM
+  - LoRA
+  - DINOv2
+  - mean teacher
+  - semi-supervised learning

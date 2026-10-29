@@ -1,0 +1,2 @@
+# CPU-only submission packaging and validation.
+Pillow>=11.3,<13

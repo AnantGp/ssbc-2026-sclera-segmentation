@@ -1,0 +1,14 @@
+# Reconstruction aid for the archived CUDA scripts, not a full environment lock.
+# Install an appropriate PyTorch/CUDA build for the target machine first.
+-r requirements.txt
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.0.2
+albumentations==2.0.8
+opencv-python-headless>=4.10,<5
+tqdm>=4.67,<5
+segmentation-models-pytorch==0.5.0
+scikit-learn>=1.5,<2
+pandas>=2.2,<3
+segment-anything==1.0
+# Optional exploratory CRF script additionally needs pydensecrf.
